@@ -3,7 +3,7 @@
     "description": "Wrapper over jakoch/phantomjs-installer to fix compatibility with composer v2.",
     "type": "library",
     "require": {
-        "php"
+        "php": ">=7.2",
         "jakoch/phantomjs-installer": "^2.1"
     },
     "license": "MIT",
