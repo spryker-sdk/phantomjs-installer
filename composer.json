@@ -1,0 +1,16 @@
+{
+    "name": "spryker-sdk/phantomjs-installer",
+    "description": "Wrapper over jakoch/phantomjs-installer to fix compatibility with composer v2.",
+    "type": "library",
+    "require": {
+        "php": ">=7.2",
+        "jakoch/phantomjs-installer": "^2.1"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sergey Sikachev",
+            "email": "sergey.sikachev@spryker.com"
+        }
+    ]
+}
