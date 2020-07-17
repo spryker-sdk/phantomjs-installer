@@ -12,5 +12,10 @@
             "name": "Sergey Sikachev",
             "email": "sergey.sikachev@spryker.com"
         }
-    ]
+    ],
+    "autoload": {
+        "psr-4": {
+            "SprykerPhantomInstaller\\": "src/SprykerPhantomInstaller/"
+        }
+    }
 }
